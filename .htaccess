@@ -12,6 +12,11 @@ RewriteRule ^(.*/)?index\.html$ /$1 [L,R=301]
 
 ErrorDocument 404 /404.html
 
+# Interne Dateien nicht ausliefern
+<FilesMatch "^(README\.md|\.gitignore)$">
+  Require all denied
+</FilesMatch>
+
 # Sicherheits-Header
 <IfModule mod_headers.c>
   Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
