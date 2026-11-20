@@ -1,0 +1,18 @@
+# Konawiri Digital
+
+> Website-Agentur für B2B-Unternehmen in Deutschland. Wir planen, gestalten, entwickeln und veröffentlichen Websites von A bis Z und betreuen sie auf Wunsch weiter.
+
+## Angebot
+- Konzept & Strategie, Webdesign, Webentwicklung
+- Technisches SEO, mobile Optimierung, strukturierte Daten
+- Domain, Hosting (EU), SSL, Livegang
+- Wartung, Updates, Backups, laufende Anpassungen
+
+## Preise
+- Websites einmalig ab 600 €
+- Alternativ Abo-Modelle mit monatlichem Betrag (inkl. Hosting, Wartung, Anpassungen)
+- Konkrete Angebote nach kostenlosem Erstgespräch
+
+## Kontakt
+- Website: https://www.konawiri.de/
+- E-Mail: hallo@konawiri.de
