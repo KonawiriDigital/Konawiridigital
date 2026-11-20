@@ -7,10 +7,10 @@ Läuft auf jedem Webhosting (Apache mit PHP für das Kontaktformular).
 
 | Was | Wo |
 |---|---|
-| Domain `https://www.konawiri.de` | `index.html`, `impressum/`, `datenschutz/`, `sitemap.xml`, `robots.txt`, `llms.txt`, `.htaccess` (Suchen & Ersetzen) |
-| E-Mail `hallo@konawiri.de` | `index.html`, `kontakt.php`, `assets/js/main.js`, Rechtsseiten |
-| Telefon `+49 000 0000000` | `index.html` (Kontakt + JSON-LD) |
-| Adresse `Musterstraße 1, 00000 Musterstadt` | `index.html` (Footer, Kontakt, JSON-LD) |
+| Domain `https://www.konawiridigital.de` | `index.html`, `impressum/`, `datenschutz/`, `sitemap.xml`, `robots.txt`, `llms.txt`, `.htaccess` (Suchen & Ersetzen) |
+| E-Mail `info@konawiridigital.de` | `index.html`, `kontakt.php`, `assets/js/main.js`, Rechtsseiten |
+| Telefon `+49 172 5303645` | `index.html` (Kontakt + JSON-LD) |
+| Adresse `Neue Straße 1B, 91096 Möhrendorf` | `index.html` (Footer, Kontakt, JSON-LD) |
 | Rot markierte Felder | `impressum/index.html`, `datenschutz/index.html` |
 | Absender-Adresse | `kontakt.php` (`ABSENDER` muss zur eigenen Domain gehören) |
 | Demo-Projekte unter „Arbeiten“ | durch echte Referenzen ersetzen, sobald vorhanden |
@@ -22,7 +22,7 @@ Impressum und Datenschutzerklärung sind solide Vorlagen, ersetzen aber keine Re
 1. Alle Dateien (inkl. der versteckten `.htaccess`) in das Hauptverzeichnis des Webspace laden.
 2. SSL-Zertifikat beim Hoster aktivieren.
 3. Kontaktformular einmal testen.
-4. In der Google Search Console die Domain bestätigen und `https://www.konawiri.de/sitemap.xml` einreichen (ebenso in den Bing Webmaster Tools).
+4. In der Google Search Console die Domain bestätigen und `https://www.konawiridigital.de/sitemap.xml` einreichen (ebenso in den Bing Webmaster Tools).
 5. Google-Unternehmensprofil anlegen (wichtig für lokale Suchen).
 
 ## Bereits eingebaut

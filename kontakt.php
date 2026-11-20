@@ -6,9 +6,9 @@
  */
 
 // ===== Einstellungen ======================================================
-const EMPFAENGER = 'hallo@konawiri.de';        // TODO: eure echte Adresse
-const ABSENDER   = 'website@konawiri.de';      // TODO: Adresse eurer Domain (wichtig für Zustellbarkeit/SPF)
-const BETREFF    = 'Neue Anfrage über konawiri.de';
+const EMPFAENGER = 'info@konawiridigital.de';
+const ABSENDER   = 'website@konawiridigital.de';      // muss zur eigenen Domain gehören (SPF)
+const BETREFF    = 'Neue Anfrage über konawiridigital.de';
 // ==========================================================================
 
 header('X-Content-Type-Options: nosniff');
