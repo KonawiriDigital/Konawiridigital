@@ -12,6 +12,9 @@ RewriteRule ^(.*/)?index\.html$ /$1 [L,R=301]
 
 ErrorDocument 404 /404.html
 
+# Umbenannter Ratgeber-Artikel
+Redirect 301 /ratgeber/b2b-website-checkliste/ https://www.konawiridigital.de/ratgeber/website-checkliste/
+
 # Interne Dateien nicht ausliefern
 <FilesMatch "^(README\.md|\.gitignore)$">
   Require all denied

@@ -1,4 +1,4 @@
-# Konawiri Digital – Website
+# Konawiri Digital: Website
 
 Statische Website (HTML, CSS, JS) ohne Framework, ohne Cookies, ohne Tracking, ohne externe Verbindungen.
 Läuft auf jedem Webhosting (Apache mit PHP für das Kontaktformular).
@@ -42,7 +42,7 @@ Impressum und Datenschutzerklärung sind solide Vorlagen, ersetzen aber keine Re
 
 ## Nächste Schritte für bessere Rankings
 
-- Alle 2–4 Wochen einen neuen Ratgeber-Artikel
+- Alle 2-4 Wochen einen neuen Ratgeber-Artikel
 - Echte Referenzen und Kundenstimmen
 
 Schriften: DM Sans und Inter (SIL Open Font License, siehe `assets/fonts/`).

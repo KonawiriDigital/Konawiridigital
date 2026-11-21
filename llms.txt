@@ -1,6 +1,6 @@
 # Konawiri Digital
 
-> Website-Agentur für Unternehmen jeder Branche in Deutschland. Wir planen, gestalten, entwickeln und veröffentlichen Websites von A bis Z und betreuen sie auf Wunsch weiter.
+> Website-Agentur für Unternehmen, Selbstständige, Vereine und Privatpersonen in ganz Deutschland. Sitz in Möhrendorf bei Erlangen. Wir planen, gestalten, entwickeln und veröffentlichen Websites von A bis Z und betreuen sie auf Wunsch weiter.
 
 ## Angebot
 - Konzept & Strategie, Webdesign, Webentwicklung
@@ -36,4 +36,4 @@
 - [Was kostet eine Website?](https://www.konawiridigital.de/ratgeber/was-kostet-eine-website/)
 - [Website kaufen oder mieten?](https://www.konawiridigital.de/ratgeber/website-kaufen-oder-mieten/)
 - [DSGVO-Checkliste für Websites](https://www.konawiridigital.de/ratgeber/dsgvo-website-checkliste/)
-- [Was eine gute B2B-Website braucht](https://www.konawiridigital.de/ratgeber/b2b-website-checkliste/)
+- [Was eine gute Website braucht](https://www.konawiridigital.de/ratgeber/website-checkliste/)

@@ -1,6 +1,6 @@
 <?php
 /**
- * Konawiri Digital – Kontaktformular
+ * Konawiri Digital: Kontaktformular
  * Läuft auf Standard-PHP-Hosting (hier: Hostinger).
  * Speichert NICHTS in einer Datenbank, sendet nur eine E-Mail an EMPFAENGER.
  */
@@ -64,10 +64,10 @@ foreach ([$name, $email] as $f) { if (preg_match('/[\n\r]/', $f)) antwort(false,
 $text  = "Neue Anfrage über die Website\n";
 $text .= "=============================\n\n";
 $text .= "Name:        $name\n";
-$text .= "Unternehmen: " . ($firma ?: '–') . "\n";
+$text .= "Unternehmen: " . ($firma ?: 'keine Angabe') . "\n";
 $text .= "E-Mail:      $email\n";
-$text .= "Telefon:     " . ($telefon ?: '–') . "\n";
-$text .= "Interesse:   " . ($modell ?: '–') . "\n\n";
+$text .= "Telefon:     " . ($telefon ?: 'keine Angabe') . "\n";
+$text .= "Interesse:   " . ($modell ?: 'keine Angabe') . "\n\n";
 $text .= "Nachricht:\n$nachricht\n\n";
 $text .= "Datenschutz-Hinweis bestätigt: ja (" . date('d.m.Y H:i') . ")\n";
 

@@ -1,4 +1,4 @@
-/* Konawiri Digital – main.js (ohne externe Bibliotheken, ohne Tracking, ohne Cookies) */
+/* Konawiri Digital: main.js (ohne externe Bibliotheken, ohne Tracking, ohne Cookies) */
 (function () {
   "use strict";
 
@@ -18,7 +18,7 @@
     var fill = loader.querySelector(".loader__fill");
     var count = loader.querySelector(".loader__count");
     var start = performance.now();
-    var minDuration = 1900; // ms – kurz genug, um nicht zu nerven
+    var minDuration = 1900; // ms, kurz genug, um nicht zu nerven
     var pageLoaded = document.readyState === "complete";
     window.addEventListener("load", function () { pageLoaded = true; });
 
