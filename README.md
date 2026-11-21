@@ -31,11 +31,18 @@ Impressum und Datenschutzerklärung sind solide Vorlagen, ersetzen aber keine Re
 - DSGVO: lokal gehostete Schriften, keine Cookies, kein Tracking, Formular mit Einwilligung und Honeypot statt CAPTCHA, Impressum, Datenschutz
 - Technik: Sicherheits-Header, HTTPS- und www-Weiterleitung, Caching, Komprimierung, 404-Seite, Barrierefreiheit (Skip-Link, Tastaturbedienung, „reduzierte Bewegung“)
 
+## Seitenstruktur
+
+- `/` Startseite
+- Leistungen: `/website-erstellen-lassen/`, `/website-abo/`, `/website-relaunch/`, `/website-betreuung/`
+- Branchen: `/website-fuer-handwerksbetriebe/`, `/website-fuer-industrieunternehmen/`, `/website-fuer-dienstleister/`
+- Region: `/webdesign-nuernberg/`, `/webdesign-fuerth/`, `/webdesign-erlangen/`
+- Ratgeber: `/ratgeber/` mit 4 Artikeln
+- Rechtliches: `/impressum/`, `/datenschutz/`
+
 ## Nächste Schritte für bessere Rankings
 
-- Eigene Unterseiten pro Leistung (z. B. `/webdesign-b2b/`, `/website-abo/`, `/seo/`)
-- Standortseiten für eure Region
-- Blog mit Ratgebern (z. B. „Was kostet eine B2B-Website?“)
+- Alle 2–4 Wochen einen neuen Ratgeber-Artikel
 - Echte Referenzen und Kundenstimmen
 
 Schriften: DM Sans und Inter (SIL Open Font License, siehe `assets/fonts/`).
