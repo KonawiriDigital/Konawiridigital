@@ -48,3 +48,7 @@ ErrorDocument 404 /404.html
 
 AddType font/woff .woff
 AddType application/manifest+json .webmanifest
+
+# Zeichensatz (Umlaute in robots.txt, llms.txt, sitemap.xml)
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .txt .xml .webmanifest .css .js
